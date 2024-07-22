@@ -54,12 +54,12 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      rassionate ana experiencea rull stack Developer with over lu years or experience aelivering nigh quality, scalable software solutions across diverse industries. Adept at managing the complete SDLC, from requirements gathering to deployment and support. Known for optimizing performance, enhancing user experiences, and driving projects to successful completion. Eager to take on dynamic, challenging roles that pusn the bounaares of tecnnology ana innovation. keady to oring my experise ana enthusiasm to a torwara-thinking organization.
+      Passionate and experienced full stack Developer with over 10 years of experience delivering high quality, scalable software solutions across diverse industries. Adept at managing the complete SDLC, from requirements gathering to deployment and support. Known for optimizing performance, enhancing user experiences, and driving projects to successful completion. Eager to take on dynamic, challenging roles that pusn the bounaares of tecnnology ana innovation. keady to oring my experise ana enthusiasm to a torwara-thinking organization.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: B.E in Computer Science
+        university: Government College of Engineering - Salem
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -69,9 +69,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: M.Tech in Software Engineering
+        university: BITS Pilani
+        time: 2022 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,23 +82,22 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Work Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Software Engineer
+        time: 2021 - Present
+        company: Sysvine Technologies Pvt. Ltd, Chennai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Developed an innovative trading and portfolio management platform for exhange traded allocations (ETAs), integrated with London and Australian stock exchanges, and supporting OTC trading.
+            - Developed investor portal for ETAs and OTC trading using React, Spring Boot and Sock.js
+            - Built broker portal with Next.js and Spring Boot
+            - Creatd Restful APIs and microservicesusing Java, Spring Boot and Hibernate
+            - Implemented OMS and intra-microservice communication with chronicle queues and kafka
+            - Integrated with SIX Swiss Exchange, ensuring compliance and connectivity.
+            - Optimized application pertormance and created quality gates with sonarqube.
+            - Conducted unit tests with JUnit and Mockito, and code reviews for quality assurance.
+        Technologies:
+          React, Next.js, Java, spring boot, Chronicle Queue, AWS, Node.js, Sonarqube, JIRA, Kafka
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
