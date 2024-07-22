@@ -98,26 +98,33 @@ experiences:
             - Conducted unit tests with JUnit and Mockito, and code reviews for quality assurance.
         Technologies:
           React, Next.js, Java, spring boot, Chronicle Queue, AWS, Node.js, Sonarqube, JIRA, Kafka
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Systems Engineer
+        time: 2011 - 2013
+        company: IBM, Bangalore
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Developed a B2B sales app for BJ's Wholesale Club, a leading warehouse club operator. 
+          The app enhances product display customization, allowing customers
+          to easily select attribute options. check delivery status and availability 
+          and view offers, savings. related items. and product descriptions.
+            - Participated in the complete SDLC including analysis, design, development, deployment, and production support.
+            - Developed Catalog subsystems, delivery status, and availability check modules
+            - Created responsive web pages using bootstrap and media queries
+            - Developed Ul using HTML/CSS, Sass, jQuery, AJAX, and JavaScript DOM.
+            - Designed and implemented RESTful services with Jersey.
+            - Developed JSP pages using the Struts framework.
+            - Wrote SL and PL/SQL queries for Oracle database
+            - Conducted unit testing with JUnit
+            - Performed performance tuning and optimization.
+      - role: Associate Software Engineer
+        time: 2008 - 2011
+        company: TCS, Chennai
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          As a full stack developer I have delivered multiple projects for various clients
+          across multiple domains. I worked closely with Product and Design peers
+          to build features and deliver the requirements. Have participated in multiple
+          phases of development including design, development, testing, deployment
+          and production support. I have trained more than 1200 people in Adobe Flex
+          and Actionscript across the organization
             - Bullet point
             - Bullet point
 
