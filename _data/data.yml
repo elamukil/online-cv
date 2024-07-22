@@ -216,26 +216,35 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Skillset
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Languages
+        conference: Java, Javascript, HTML/CSS, Typescript
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Back-end VM's
+        conference: JEE (Spring Boot,Spring MVC), Node.js (Express.js)
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Front-end Frameworks
+        conference: React.js, Next.js, Express.js, HTML/CSS
+      
+      - title: Frameworks/APIs
+        conference: JPA, Hibernate, Spring
+      
+      - title: Databases
+        conference: MySQL, Oracle, DB2, PostgreSQL
+
+      - title: Cloud
+        conference: AWS (EC2, VPC, RDS, S3,MQ, SES, IAM, ElastiCache, cognito, system parameters)
+
+      - title: Caching
+        conference: Elastic Cache, Redis
+
+      - title: Unit Testing
+        conference: JUnit, Mockito, Cucumber
 
 skills:
     title: Skills &amp; Proficiency
